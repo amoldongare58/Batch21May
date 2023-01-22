@@ -19,7 +19,7 @@ public class TestClassA {
 	@BeforeSuite
 	public void beforeSuit() 
 	{
-		System.out.println("before suite");
+		System.out.println("Hello Amol");
 	}
 	@BeforeTest
 	public void beforetest() 
